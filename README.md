@@ -1,4 +1,4 @@
-### Analysis Report: Amazon Consumer Purchasing Behavior and Supply Chain Optimization for Marketing Strategy
+### Amazon Consumer Purchasing Behavior and Supply Chain Optimization for Marketing Strategy
 
 #### Problem Statement
 The company aims to optimize its marketing strategies and supply chain to improve customer satisfaction, increase profitability, and streamline operations. A detailed analysis of consumer purchasing behavior and supply chain efficiency will help uncover actionable insights.
