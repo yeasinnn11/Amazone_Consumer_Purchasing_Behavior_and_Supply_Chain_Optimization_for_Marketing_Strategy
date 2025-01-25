@@ -21,7 +21,7 @@ The company aims to optimize its marketing strategies and supply chain to improv
 2. What opportunities exist for streamlining supply chain costs while maintaining customer satisfaction?
 
 ---
-**Executive Summary**
+#### Executive Summary  **Dashboard Overview [Link🔗 (https://public.tableau.com/views/AmazonConsumerBehaviorAnalysisSupplyChainOptimization_/WelcomePage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 This report delves into the consumer purchasing behavior and supply chain optimization for a company aiming to enhance customer satisfaction, increase profitability, and streamline operations. Key findings and recommendations are summarized as follows:
 
@@ -44,7 +44,7 @@ This report delves into the consumer purchasing behavior and supply chain optimi
 
 This executive summary highlights actionable insights to guide the company in achieving sustainable growth, enhancing consumer satisfaction, and optimizing operations.
 
-
+---
 
 ### Analysis
 
