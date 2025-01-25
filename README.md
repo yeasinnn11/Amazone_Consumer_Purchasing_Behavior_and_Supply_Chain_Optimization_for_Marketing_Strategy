@@ -70,7 +70,8 @@ The company aims to optimize its marketing strategies and supply chain to improv
 - Total revenue peaked in 2012 ($555.39M) but declined to $152.41M by 2017.
 - Costs showed an uneven trend, dropping significantly from $389.59M in 2012 to $101.80M in 2017.
 
-![year](https://github.com/user-attachments/assets/6b768adb-8c71-4804-8799-12653b42db40)
+![fdsf](https://github.com/user-attachments/assets/f043f059-7c73-45f2-93b2-d7bf35cf1837)
+
 
 **Insights**:
 - While supply chain efficiency improved (lower shipment days), revenue decreased, suggesting declining consumer demand or market saturation.
